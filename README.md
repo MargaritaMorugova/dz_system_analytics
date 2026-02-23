@@ -61,7 +61,8 @@
 - Фиксируется комиссия за заказ
 ---
 ## Схема
-![[Pasted image 20260223172802.png]]
+<img width="1056" height="691" alt="image" src="https://github.com/user-attachments/assets/73df3bef-cd07-4d1b-ab40-f09bf626b35f" />
+
 
 ---
 ## Описание таблиц и их атрибутов
